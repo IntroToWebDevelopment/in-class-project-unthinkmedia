@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5571103&assignment_repo_type=AssignmentRepo)
 ## In Class Project
 
 You will using this Repo throughout the semester to work on an ongoing project creating a Youtube-like experience.  Each week we will use the skills we've learned to build onto the project. 
